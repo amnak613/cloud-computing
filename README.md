@@ -13,6 +13,8 @@ Open the [notes from course =>](./notes.ipynb)
 
 ### Scaffold
 
+[![Python application test with Github Actions](https://github.com/agne6ka/duke-cloud-computing/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/agne6ka/duke-cloud-computing/actions/workflows/pythonapp.yml)
+
 1. Go to scaffold directory
     ```bash
     cd scaffold
