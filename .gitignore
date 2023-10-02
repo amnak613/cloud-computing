@@ -3,12 +3,20 @@ __pycache__/
 
 # Environments
 .env
+.venv
+env/
+venv/
+ENV/
 
 # Unit test / coverage reports
 .coverage
+.coverage
+.coverage.*
+.cache
 
 # Distribution / packaging
 .Python
 lib/
 dist/
 public/
+.history/
