@@ -1,0 +1,9 @@
+baseURL = "http://hugo-app.s3-website.eu-north-1.amazonaws.com/"
+languageCode = "en-us"
+title = "Hugo Static Site via S3"
+theme = "ananke"
+
+[[deployment.targets]] 
+
+name="hugo-app" 
+URL="s3://hugo-app/?region=eu-north-1"
